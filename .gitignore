@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+dist/
+out/
+coverage/
+
+# Playwright
+report/
+playwright-report/
+*.json
+*.xml
+*.png
+
+# OS generated files
+.DS_Store
